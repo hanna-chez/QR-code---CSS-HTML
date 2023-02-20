@@ -1,0 +1,25 @@
+.card {
+    font-family: "Outfit", sans-serif;
+}
+
+body {
+    background-color: #dde6f0;
+}
+
+p {
+    font-size: 15px;
+}
+
+.attribution {
+    font-style: italic;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 10px;
+}
+
+footer p {
+    font-size: 10px;
+}
